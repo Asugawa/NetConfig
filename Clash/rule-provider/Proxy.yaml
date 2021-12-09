@@ -12,4 +12,3 @@ payload:
   - DOMAIN-SUFFIX,openwrt.org
   - DOMAIN-SUFFIX,sourceforge.net
   - DOMAIN-SUFFIX,ubuntu.com
-  - DOMAIN-SUFFIX,netfilter.org
