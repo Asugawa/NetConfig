@@ -1,12 +1,14 @@
-# LIHANG
-host-suffix ,bj-lihang.net, 全球加速
-
-# creeperhost
+host, staic-bin.lowiro.com, 全球加速
+host-suffix, colorfulpalette.org, 台湾
+host-suffix, bj-lihang.net, 全球加速
+host-suffix, busybox.net, 全球加速
 host-suffix, creeper.host, 全球加速
 host-suffix, creeperhost.net, 全球加速
-
-# HutaoCloud
+host-suffix, hiccears.com, 全球加速
 host-suffix, hutao.cloud, 全球加速
-
-# プロセカ
-host-suffix, colorfulpalette.org, 台湾
+host-suffix, minecraft.net, 全球加速
+host-suffix, mojang.com, 
+host-suffix, netfilter.org, 全球加速
+host-suffix, openwrt.org, 全球加速
+host-suffix, sourceforge.net, 全球加速
+host-suffix, ubuntu.com, 全球加速
