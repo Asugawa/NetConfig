@@ -1,0 +1,15 @@
+# 百度
+host-suffix, boxer.baidu.com, reject
+host-suffix, miao.baidu.com, reject
+host-suffix, ada.baidu.com, reject
+host-suffix, ext.baidu.com, reject
+host-suffix, entry.baidu.com, reject
+host-suffix, ug.baidu.com, reject
+host-suffix, eopa.baidu.com, reject
+
+# 头条
+host-suffix, pglstatp-toutiao.com, reject
+host-keyword, ppangolin-sdk-toutiao, reject
+
+# 智齿
+host-suffix, api.sobot.com, reject
