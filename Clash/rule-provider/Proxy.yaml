@@ -1,5 +1,6 @@
 payload:
   - DOMAIN,staic-bin.lowiro.com
+  - DOMAIN,bethesda.net
   - DOMAIN-SUFFIX,bj-lihang.net
   - DOMAIN-SUFFIX,busybox.net
   - DOMAIN-SUFFIX,creeper.host
