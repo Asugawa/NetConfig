@@ -1,8 +1,9 @@
+#!name=Adversting
+#!desc=广告重写补充
+
 [URL Rewrite]
-# 京东
-^https?:\/\/m\.360buyimg.com\/mobilecms\/s1125x2436_jfs url reject
+^https?:\/\/m\.360buyimg.com\/mobilecms\/s1125x2436_jfs - reject
+^https?:\/\/image\.yonghuivip\.com\/image\/shensuan\/20-img_fp_full_screen-750x1334 - reject
 
-# 永辉生活
-^https?:\/\/image\.yonghuivip\.com\/image\/shensuan\/20-img_fp_full_screen-750x1334 url reject
-
+[MITM]
 hostname = api.m.jd.com, m.360buyimg.com
