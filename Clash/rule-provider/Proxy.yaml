@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,busybox.net
   - DOMAIN-SUFFIX,creeper.host
   - DOMAIN-SUFFIX,creeperhost.net
+  - DOMAIN-SUFFIX,curl.se
   - DOMAIN-SUFFIX,denx.de
   - DOMAIN-SUFFIX,hiccears.com
   - DOMAIN-SUFFIX,hutao.cloud
@@ -17,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,openwrt.org
   - DOMAIN-SUFFIX,pagure.org
   - DOMAIN-SUFFIX,python.org
+  - DOMAIN-SUFFIX,ruby-lang.org
   - DOMAIN-SUFFIX,snapcraft.io
   - DOMAIN-SUFFIX,sourceforge.net
   - DOMAIN-SUFFIX,sourceware.org
