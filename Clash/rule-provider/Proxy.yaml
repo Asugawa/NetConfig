@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,7-zip.org
   - DOMAIN-SUFFIX,bj-lihang.net
   - DOMAIN-SUFFIX,busybox.net
+  - DOMAIN-SUFFIX,codeaurora.org
   - DOMAIN-SUFFIX,creeper.host
   - DOMAIN-SUFFIX,creeperhost.net
   - DOMAIN-SUFFIX,curl.se
@@ -10,7 +11,7 @@ payload:
   - DOMAIN-SUFFIX,hiccears.com
   - DOMAIN-SUFFIX,hutao.cloud
   - DOMAIN-SUFFIX,libuv.org
-  - DOMAIN-SUFFIX,lysator.liu.se
+  - DOMAIN-SUFFIX,liu.se
   - DOMAIN-SUFFIX,minecraft.net
   - DOMAIN-SUFFIX,mojang.com
   - DOMAIN-SUFFIX,netfilter.org
