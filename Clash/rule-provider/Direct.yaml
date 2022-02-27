@@ -1,4 +1,11 @@
 payload:
+  - DOMAIN,steambroadcast.akamaized.net
+  - DOMAIN,steamcdn-a.akamaihd.net
+  - DOMAIN,steamcommunity-a.akamaihd.net
+  - DOMAIN,steampipe.akamaized.net
+  - DOMAIN,steamstore-a.akamaihd.net
+  - DOMAIN,steamusercontent-a.akamaihd.net
+  - DOMAIN,steamuserimages-a.akamaihd.net
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,dl.google.com
   - DOMAIN-SUFFIX,dl.l.google.com
