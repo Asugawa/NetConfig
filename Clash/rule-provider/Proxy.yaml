@@ -19,6 +19,8 @@ payload:
   - DOMAIN-SUFFIX,libuv.org
   - DOMAIN-SUFFIX,liu.se
   - DOMAIN-SUFFIX,lua.org
+  - DOMAIN-SUFFIX,mega.co.nz
+  - DOMAIN-SUFFIX,mega.nc
   - DOMAIN-SUFFIX,minecraft.net
   - DOMAIN-SUFFIX,mojang.com
   - DOMAIN-SUFFIX,muni.cz
