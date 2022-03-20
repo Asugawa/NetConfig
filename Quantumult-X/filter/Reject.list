@@ -1,0 +1,14 @@
+// 百度
+DOMAIN-SUFFIX,ada.baidu.com
+DOMAIN-SUFFIX,boxer.baidu.com
+DOMAIN-SUFFIX,entry.baidu.com
+DOMAIN-SUFFIX,eopa.baidu.com
+DOMAIN-SUFFIX,ext.baidu.com
+DOMAIN-SUFFIX,miao.baidu.com
+DOMAIN-SUFFIX,ug.baidu.com
+
+// 智齿API
+DOMAIN-SUFFIX,api.sobot.com
+
+// 头条API
+DOMAIN-SUFFIX,pglstatp-toutiao.com
