@@ -10,6 +10,7 @@ DOMAIN,staic-bin.lowiro.com
   - DOMAIN,cyberbits.eu
   - DOMAIN,denx.de
   - DOMAIN,dereferenced.org
+  - DOMAIN-SUFFIX,golang.org
   - DOMAIN,gnome.org
   - DOMAIN,hiccears.com
   - DOMAIN,hutao.cloud
