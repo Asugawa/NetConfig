@@ -1,5 +1,5 @@
 payload:
-DOMAIN,staic-bin.lowiro.com
+  - DOMAIN,staic-bin.lowiro.com
   - DOMAIN,7-zip.org
   - DOMAIN,bj-lihang.net
   - DOMAIN,busybox.net
