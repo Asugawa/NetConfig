@@ -10,7 +10,8 @@ payload:
   - DOMAIN-SUFFIX,cyberbits.eu
   - DOMAIN-SUFFIX,denx.de
   - DOMAIN-SUFFIX,dereferenced.org
-  - DOMAIN-SUFFIX-SUFFIX,golang.org
+  - DOMAIN-SUFFIX,foobar2000.org
+  - DOMAIN-SUFFIX,golang.org
   - DOMAIN-SUFFIX,gnome.org
   - DOMAIN-SUFFIX,hiccears.com
   - DOMAIN-SUFFIX,hutao.cloud
