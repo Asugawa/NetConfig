@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,libc.org
   - DOMAIN-SUFFIX,libuv.org
   - DOMAIN-SUFFIX,liu.se
+  - DOMAIN-SUFFIX,logi.com
   - DOMAIN-SUFFIX,lua.org
   - DOMAIN-SUFFIX,mega.co.nz
   - DOMAIN-SUFFIX,minecraft.net
@@ -44,6 +45,8 @@ payload:
   - DOMAIN-SUFFIX,sqlite.org
   - DOMAIN-SUFFIX,tcpdump.org
   - DOMAIN-SUFFIX,thekelleys.org.uk
-  - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,xmlsoft.org
+  - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,voidtools.com
+  - DOMAIN-SUFFIX,wd.com
+  - DOMAIN-SUFFIX,westerndigital.com
