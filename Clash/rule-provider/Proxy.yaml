@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,hiccears.com
   - DOMAIN-SUFFIX,hutao.cloud
   - DOMAIN-SUFFIX,infradead.org
+  -  DOMAIN-SUFFIX,keepass.info
   - DOMAIN-SUFFIX,kernel.org
   - DOMAIN-SUFFIX,libc.org
   - DOMAIN-SUFFIX,libuv.org
