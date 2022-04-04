@@ -39,8 +39,10 @@ payload:
   - DOMAIN-SUFFIX,snapcraft.io
   - DOMAIN-SUFFIX,sourceforge.net
   - DOMAIN-SUFFIX,sourceware.org
+  - DOMAIN-SUFFIX,sordum.org
   - DOMAIN-SUFFIX,sqlite.org
   - DOMAIN-SUFFIX,tcpdump.org
   - DOMAIN-SUFFIX,thekelleys.org.uk
   - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,xmlsoft.org
+  - DOMAIN-SUFFIX,voidtools.com
