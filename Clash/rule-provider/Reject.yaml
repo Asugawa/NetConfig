@@ -8,6 +8,9 @@ payload:
   - DOMAIN-SUFFIX,miao.baidu.com
   - DOMAIN-SUFFIX,ug.baidu.com
 
+# 哔哩哔哩
+  - DOMAIN-SUFFIX, grpc.biliapi.net
+
 # 智齿API
   - DOMAIN-SUFFIX,api.sobot.com
 
