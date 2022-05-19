@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,denx.de
   - DOMAIN-SUFFIX,dereferenced.org
   - DOMAIN-SUFFIX,foobar2000.org
+  - DOMAIN-SUFFIX,geeks3d.com
   - DOMAIN-SUFFIX,golang.org
   - DOMAIN-SUFFIX,gnome.org
   - DOMAIN-SUFFIX,hiccears.com
