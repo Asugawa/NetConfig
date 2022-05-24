@@ -46,6 +46,7 @@ payload:
   - DOMAIN-SUFFIX,sourceforge.net
   - DOMAIN-SUFFIX,sourceware.org
   - DOMAIN-SUFFIX,sordum.org
+  - DOMAIN-SUFFIX,support.bluestacks.com
   - DOMAIN-SUFFIX,sqlite.org
   - DOMAIN-SUFFIX,tcpdump.org
   - DOMAIN-SUFFIX,thekelleys.org.uk
