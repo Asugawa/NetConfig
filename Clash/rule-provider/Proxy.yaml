@@ -32,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,mojang.com
   - DOMAIN-SUFFIX,muni.cz
   - DOMAIN-SUFFIX,netfilter.org
+  - DOMAIN-SUFFIX,nexitally.com
   - DOMAIN-SUFFIX,nongnu.org
   - DOMAIN-SUFFIX,oberhumer.com
   - DOMAIN-SUFFIX,obsproject.com
