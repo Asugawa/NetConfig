@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,router.asus.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,dl.google.com
   - DOMAIN-SUFFIX,dl.l.google.com
