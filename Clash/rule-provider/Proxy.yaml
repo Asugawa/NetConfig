@@ -53,6 +53,7 @@ payload:
   - DOMAIN-SUFFIX,thekelleys.org.uk
   - DOMAIN-SUFFIX,xmlsoft.org
   - DOMAIN-SUFFIX,ubuntu.com
+  - DOMAIN-SUFFIX,uwaterloo.ca
   - DOMAIN-SUFFIX,voidtools.com
   - DOMAIN-SUFFIX,wd.com
   - DOMAIN-SUFFIX,westerndigital.com
