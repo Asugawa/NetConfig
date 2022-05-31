@@ -2,7 +2,6 @@ payload:
   - DOMAIN,staic-bin.lowiro.com
   - DOMAIN-SUFFIX,7-zip.org
   - DOMAIN-SUFFIX,bj-lihang.net
-  - DOMAIN-SUFFIX,busybox.net
   - DOMAIN-SUFFIX,creeper.host
   - DOMAIN-SUFFIX,creeperhost.net
   - DOMAIN-SUFFIX,foobar2000.org
@@ -15,11 +14,35 @@ payload:
   - DOMAIN-SUFFIX,mega.co.nz
   - DOMAIN-SUFFIX,minecraft.net
   - DOMAIN-SUFFIX,mojang.com
-  - DOMAIN-SUFFIX,python.org
-  - DOMAIN-SUFFIX,pythonhosted.org
-  - DOMAIN-SUFFIX,pytorch.org
   - DOMAIN-SUFFIX,support.bluestacks.com
-  - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,voidtools.com
   - DOMAIN-SUFFIX,wd.com
   - DOMAIN-SUFFIX,westerndigital.com
+  // dev
+  - DOMAIN-SUFFIX,alpha.gnu.org
+  - DOMAIN-SUFFIX,busybox.net
+  - DOMAIN-SUFFIX,cxx.uclibc.org
+  - DOMAIN-SUFFIX,debian.org
+  - DOMAIN-SUFFIX,distfiles.gentoo.org
+  - DOMAIN-SUFFIX,dl.2f30.org
+  - DOMAIN-SUFFIX,download.xs4all.nl
+  - DOMAIN-SUFFIX,ftp.infradead.org
+  - DOMAIN-SUFFIX,ftp.nara.wide.ad.jp
+  - DOMAIN-SUFFIX,kernel.org
+  - DOMAIN-SUFFIX,lua.org
+  - DOMAIN-SUFFIX,matt.ucc.asn.au
+  - DOMAIN-SUFFIX,mirror.csclub.uwaterloo.ca
+  - DOMAIN-SUFFIX,mirrors.mit.edu
+  - DOMAIN-SUFFIX,mirrorservice.org
+  - DOMAIN-SUFFIX,musl.libc.org
+  - DOMAIN-SUFFIX,netfilter.org
+  - DOMAIN-SUFFIX,openssl.org
+  - DOMAIN-SUFFIX,openwrt.org
+  - DOMAIN-SUFFIX,python.org
+  - DOMAIN-SUFFIX,pythonhosted.org
+  - DOMAIN-SUFFIX,pytorch.org
+  - DOMAIN-SUFFIX,ring.gr.jp
+  - DOMAIN-SUFFIX,sourceforge.net
+  - DOMAIN-SUFFIX,tecgraf.puc-rio.br
+  - DOMAIN-SUFFIX,thekelleys.org.uk
+  - DOMAIN-SUFFIX,ubuntu.com
