@@ -18,7 +18,7 @@ payload:
   - DOMAIN-SUFFIX,voidtools.com
   - DOMAIN-SUFFIX,wd.com
   - DOMAIN-SUFFIX,westerndigital.com
-  // dev
+  # dev
   - DOMAIN-SUFFIX,alpha.gnu.org
   - DOMAIN-SUFFIX,busybox.net
   - DOMAIN-SUFFIX,cxx.uclibc.org
