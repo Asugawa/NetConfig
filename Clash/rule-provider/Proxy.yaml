@@ -43,6 +43,7 @@ payload:
   - DOMAIN-SUFFIX,pytorch.org
   - DOMAIN-SUFFIX,ring.gr.jp
   - DOMAIN-SUFFIX,sourceforge.net
+  - DOMAIN-SUFFIX,source.codeaurora.org
   - DOMAIN-SUFFIX,tecgraf.puc-rio.br
   - DOMAIN-SUFFIX,thekelleys.org.uk
   - DOMAIN-SUFFIX,ubuntu.com
