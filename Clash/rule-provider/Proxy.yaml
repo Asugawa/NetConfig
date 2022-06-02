@@ -34,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,mirror.csclub.uwaterloo.ca
   - DOMAIN-SUFFIX,mirrors.mit.edu
   - DOMAIN-SUFFIX,mirrorservice.org
+  - DOMAIN-SUFFIX,mirror.netcologne.de
   - DOMAIN-SUFFIX,musl.libc.org
   - DOMAIN-SUFFIX,netfilter.org
   - DOMAIN-SUFFIX,openssl.org
