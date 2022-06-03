@@ -22,7 +22,7 @@ payload:
   - DOMAIN-SUFFIX,2f30.org
   - DOMAIN-SUFFIX,busybox.net
   - DOMAIN-SUFFIX,codeaurora.org
-  - DOMAIN-SUFFIX,cyberbits.eu
+  # - DOMAIN-SUFFIX,cyberbits.eu
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,denx.de
   - DOMAIN-SUFFIX,dereferenced.org
