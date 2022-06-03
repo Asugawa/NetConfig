@@ -14,37 +14,51 @@ payload:
   - DOMAIN-SUFFIX,mega.co.nz
   - DOMAIN-SUFFIX,minecraft.net
   - DOMAIN-SUFFIX,mojang.com
-  - DOMAIN-SUFFIX,support.bluestacks.com
+  - DOMAIN-SUFFIX,bluestacks.com
   - DOMAIN-SUFFIX,voidtools.com
   - DOMAIN-SUFFIX,wd.com
   - DOMAIN-SUFFIX,westerndigital.com
   # dev
-  - DOMAIN-SUFFIX,alpha.gnu.org
+  - DOMAIN-SUFFIX,2f30.org
   - DOMAIN-SUFFIX,busybox.net
-  - DOMAIN-SUFFIX,cxx.uclibc.org
+  - DOMAIN-SUFFIX,codeaurora.org
+  - DOMAIN-SUFFIX,cyberbits.eu
   - DOMAIN-SUFFIX,debian.org
-  - DOMAIN-SUFFIX,distfiles.gentoo.org
-  - DOMAIN-SUFFIX,dl.2f30.org
-  - DOMAIN-SUFFIX,download.xs4all.nl
-  - DOMAIN-SUFFIX,ftp.infradead.org
-  - DOMAIN-SUFFIX,ftp.nara.wide.ad.jp
+  - DOMAIN-SUFFIX,denx.de
+  - DOMAIN-SUFFIX,dereferenced.org
+  - DOMAIN-SUFFIX,dfn.de
+  - DOMAIN-SUFFIX,fossies.org
+  - DOMAIN-SUFFIX,funet.fi
+  - DOMAIN-SUFFIX,gentoo.org
+  - DOMAIN-SUFFIX,gnu.org
+  - DOMAIN-SUFFIX,infradead.org
   - DOMAIN-SUFFIX,kernel.org
   - DOMAIN-SUFFIX,lua.org
-  - DOMAIN-SUFFIX,matt.ucc.asn.au
-  - DOMAIN-SUFFIX,mirror.csclub.uwaterloo.ca
-  - DOMAIN-SUFFIX,mirrors.mit.edu
+  - DOMAIN-SUFFIX,mit.edu
   - DOMAIN-SUFFIX,mirrorservice.org
-  - DOMAIN-SUFFIX,mirror.netcologne.de
+  - DOMAIN-SUFFIX,mpfr.org
+  - DOMAIN-SUFFIX,muni.cz
+  - DOMAIN-SUFFIX,muppetlabs.com
   - DOMAIN-SUFFIX,musl.libc.org
+  - DOMAIN-SUFFIX,netcologne.de
   - DOMAIN-SUFFIX,netfilter.org
+  - DOMAIN-SUFFIX,openbsd.org
   - DOMAIN-SUFFIX,openssl.org
   - DOMAIN-SUFFIX,openwrt.org
+  - DOMAIN-SUFFIX,puc-rio.br
   - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,pythonhosted.org
   - DOMAIN-SUFFIX,pytorch.org
   - DOMAIN-SUFFIX,ring.gr.jp
   - DOMAIN-SUFFIX,sourceforge.net
-  - DOMAIN-SUFFIX,source.codeaurora.org
-  - DOMAIN-SUFFIX,tecgraf.puc-rio.br
   - DOMAIN-SUFFIX,thekelleys.org.uk
+  - DOMAIN-SUFFIX,tukaani.org
   - DOMAIN-SUFFIX,ubuntu.com
+  - DOMAIN-SUFFIX,ucc.asn.au
+  - DOMAIN-SUFFIX,uclibc.org
+  - DOMAIN-SUFFIX,uib.no
+  - DOMAIN-SUFFIX,up.pt
+  - DOMAIN-SUFFIX,uwaterloo.ca
+  - DOMAIN-SUFFIX,wide.ad.jp
+  - DOMAIN-SUFFIX,xs4all.nl
+  - DOMAIN-SUFFIX,zlib.net
