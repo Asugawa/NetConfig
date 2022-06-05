@@ -53,6 +53,7 @@ payload:
   - DOMAIN-SUFFIX,pythonhosted.org
   - DOMAIN-SUFFIX,pytorch.org
   - DOMAIN-SUFFIX,ring.gr.jp
+  - DOMAIN-SUFFIX,samba.org
   - DOMAIN-SUFFIX,sourceforge.net
   - DOMAIN-SUFFIX,thekelleys.org.uk
   - DOMAIN-SUFFIX,tukaani.org
