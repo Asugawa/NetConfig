@@ -4,9 +4,9 @@ payload:
   - DOMAIN-SUFFIX,bj-lihang.net
   - DOMAIN-SUFFIX,creeper.host
   - DOMAIN-SUFFIX,creeperhost.net
-  - DOMAIN-SUFFIX,fanbox.cc
   - DOMAIN-SUFFIX,foobar2000.org
   - DOMAIN-SUFFIX,geeks3d.com
+  - DOMAIN-SUFFIX,gnome.org
   - DOMAIN-SUFFIX,hiccears.com
   - DOMAIN-SUFFIX,hutao.cloud
   - DOMAIN-SUFFIX,keepass.info
@@ -15,54 +15,51 @@ payload:
   - DOMAIN-SUFFIX,mega.co.nz
   - DOMAIN-SUFFIX,minecraft.net
   - DOMAIN-SUFFIX,mojang.com
-  - DOMAIN-SUFFIX,bluestacks.com
+  - DOMAIN-SUFFIX,muni.cz
+  - DOMAIN-SUFFIX,nexitally.com
+  - DOMAIN-SUFFIX,sordum.org
+  - DOMAIN-SUFFIX,support.bluestacks.com
   - DOMAIN-SUFFIX,voidtools.com
   - DOMAIN-SUFFIX,wd.com
   - DOMAIN-SUFFIX,westerndigital.com
   # dev
-  - DOMAIN-SUFFIX,2f30.org
+  - DOMAIN-SUFFIX,askapache.com
   - DOMAIN-SUFFIX,busybox.net
-  - DOMAIN-SUFFIX,codelinaro.org
+  - DOMAIN-SUFFIX,corecode.io
   - DOMAIN-SUFFIX,codeaurora.org
+  - DOMAIN-SUFFIX,csuohio.edu
+  - DOMAIN-SUFFIX,curl.se
   - DOMAIN-SUFFIX,cyberbits.eu
-  - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,denx.de
   - DOMAIN-SUFFIX,dereferenced.org
-  - DOMAIN-SUFFIX,dfn.de
-  - DOMAIN-SUFFIX,fossies.org
-  - DOMAIN-SUFFIX,funet.fi
   - DOMAIN-SUFFIX,gentoo.org
-  - DOMAIN-SUFFIX,gnu.org
+  - DOMAIN-SUFFIX,golang.org
   - DOMAIN-SUFFIX,infradead.org
-  - DOMAIN-SUFFIX,jaist.ac.jp
   - DOMAIN-SUFFIX,kernel.org
+  - DOMAIN-SUFFIX,leaseweb.com
+  - DOMAIN-SUFFIX,libc.org
+  - DOMAIN-SUFFIX,libuv.org
+  - DOMAIN-SUFFIX,liu.se
   - DOMAIN-SUFFIX,lua.org
-  - DOMAIN-SUFFIX,mit.edu
-  - DOMAIN-SUFFIX,mirrorservice.org
-  - DOMAIN-SUFFIX,mpfr.org
-  - DOMAIN-SUFFIX,muni.cz
-  - DOMAIN-SUFFIX,muppetlabs.com
-  - DOMAIN-SUFFIX,musl.libc.org
-  - DOMAIN-SUFFIX,netcologne.de
+  - DOMAIN-SUFFIX,nasm.us
   - DOMAIN-SUFFIX,netfilter.org
-  - DOMAIN-SUFFIX,openbsd.org
-  - DOMAIN-SUFFIX,openssl.org
+  - DOMAIN-SUFFIX,netcologne.de
+  - DOMAIN-SUFFIX,nongnu.org
+  - DOMAIN-SUFFIX,oberhumer.com
+  - DOMAIN-SUFFIX,obsproject.com
   - DOMAIN-SUFFIX,openwrt.org
-  - DOMAIN-SUFFIX,puc-rio.br
+  - DOMAIN-SUFFIX,ox.ac.uk
+  - DOMAIN-SUFFIX,pagure.org
   - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,pythonhosted.org
   - DOMAIN-SUFFIX,pytorch.org
-  - DOMAIN-SUFFIX,ring.gr.jp
-  - DOMAIN-SUFFIX,samba.org
+  - DOMAIN-SUFFIX,ruby-lang.org
+  - DOMAIN-SUFFIX,snapcraft.io
   - DOMAIN-SUFFIX,sourceforge.net
+  - DOMAIN-SUFFIX,sourceware.org
+  - DOMAIN-SUFFIX,sqlite.org
+  - DOMAIN-SUFFIX,tcpdump.org
   - DOMAIN-SUFFIX,thekelleys.org.uk
-  - DOMAIN-SUFFIX,tukaani.org
+  - DOMAIN-SUFFIX,xmlsoft.org
   - DOMAIN-SUFFIX,ubuntu.com
-  - DOMAIN-SUFFIX,ucc.asn.au
-  - DOMAIN-SUFFIX,uclibc.org
-  - DOMAIN-SUFFIX,uib.no
-  - DOMAIN-SUFFIX,up.pt
-  - DOMAIN-SUFFIX,uwaterloo.ca
-  - DOMAIN-SUFFIX,wide.ad.jp
-  - DOMAIN-SUFFIX,xs4all.nl
-  - DOMAIN-SUFFIX,zlib.net
+  - DOMAIN-SUFFIX,uxnr.de
